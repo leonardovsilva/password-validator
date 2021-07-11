@@ -2,7 +2,7 @@ package com.leonardovsilva.passwordvalidator.api.controller;
 
 import com.leonardovsilva.passwordvalidator.api.input.PasswordRequest;
 import com.leonardovsilva.passwordvalidator.api.output.PasswordResponse;
-import com.leonardovsilva.passwordvalidator.domain.model.PasswordResult;
+import com.leonardovsilva.passwordvalidator.domain.PasswordResult;
 import com.leonardovsilva.passwordvalidator.service.PasswordService;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

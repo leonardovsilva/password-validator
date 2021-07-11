@@ -1,4 +1,4 @@
-package com.leonardovsilva.passwordvalidator.domain.validator;
+package com.leonardovsilva.passwordvalidator.domain;
 
 import lombok.Builder;
 import lombok.Getter;

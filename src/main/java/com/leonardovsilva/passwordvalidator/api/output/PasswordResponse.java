@@ -2,7 +2,7 @@ package com.leonardovsilva.passwordvalidator.api.output;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.leonardovsilva.passwordvalidator.domain.enums.PasswordValidatorTypes;
-import com.leonardovsilva.passwordvalidator.domain.model.PasswordResult;
+import com.leonardovsilva.passwordvalidator.domain.PasswordResult;
 
 @JsonInclude(JsonInclude.Include.NON_NULL)
 public class PasswordResponse {

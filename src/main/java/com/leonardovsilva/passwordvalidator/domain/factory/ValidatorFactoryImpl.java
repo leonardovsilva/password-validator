@@ -1,5 +1,7 @@
-package com.leonardovsilva.passwordvalidator.domain.validator.factory;
+package com.leonardovsilva.passwordvalidator.domain.factory;
 
+import com.leonardovsilva.passwordvalidator.domain.PasswordRules;
+import com.leonardovsilva.passwordvalidator.domain.PasswordValidator;
 import com.leonardovsilva.passwordvalidator.domain.validator.*;
 import org.springframework.stereotype.Component;
 import org.springframework.util.Assert;

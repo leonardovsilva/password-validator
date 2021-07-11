@@ -1,6 +1,6 @@
 package com.leonardovsilva.passwordvalidator.service;
 
-import com.leonardovsilva.passwordvalidator.domain.model.PasswordResult;
+import com.leonardovsilva.passwordvalidator.domain.PasswordResult;
 
 public interface PasswordService {
 

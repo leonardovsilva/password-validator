@@ -1,11 +1,11 @@
 package com.leonardovsilva.passwordvalidator.service;
 
 import com.leonardovsilva.passwordvalidator.domain.enums.PasswordValidatorTypes;
-import com.leonardovsilva.passwordvalidator.domain.model.PasswordResult;
-import com.leonardovsilva.passwordvalidator.domain.validator.Password;
-import com.leonardovsilva.passwordvalidator.domain.validator.PasswordRules;
-import com.leonardovsilva.passwordvalidator.domain.validator.PasswordValidator;
-import com.leonardovsilva.passwordvalidator.domain.validator.factory.ValidatorFactory;
+import com.leonardovsilva.passwordvalidator.domain.PasswordResult;
+import com.leonardovsilva.passwordvalidator.domain.Password;
+import com.leonardovsilva.passwordvalidator.domain.PasswordRules;
+import com.leonardovsilva.passwordvalidator.domain.PasswordValidator;
+import com.leonardovsilva.passwordvalidator.domain.factory.ValidatorFactory;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

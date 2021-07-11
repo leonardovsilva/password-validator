@@ -1,7 +1,6 @@
-package com.leonardovsilva.passwordvalidator.domain.model;
+package com.leonardovsilva.passwordvalidator.domain;
 
 import com.leonardovsilva.passwordvalidator.domain.enums.PasswordValidatorTypes;
-import com.leonardovsilva.passwordvalidator.domain.validator.Password;
 import lombok.Builder;
 import lombok.Getter;
 

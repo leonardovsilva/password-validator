@@ -1,5 +1,7 @@
-package com.leonardovsilva.passwordvalidator.domain.validator;
+package com.leonardovsilva.passwordvalidator.domain;
 
+import com.leonardovsilva.passwordvalidator.domain.Password;
+import com.leonardovsilva.passwordvalidator.domain.PasswordRules;
 import com.leonardovsilva.passwordvalidator.domain.enums.PasswordValidatorTypes;
 
 public interface PasswordValidator {

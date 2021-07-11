@@ -1,5 +1,7 @@
 package com.leonardovsilva.passwordvalidator.domain.validator;
 
+import com.leonardovsilva.passwordvalidator.domain.Password;
+import com.leonardovsilva.passwordvalidator.domain.PasswordValidator;
 import com.leonardovsilva.passwordvalidator.domain.enums.PasswordValidatorTypes;
 import org.springframework.util.Assert;
 
