@@ -12,7 +12,7 @@ import java.util.Arrays;
 @Component
 public class ValidatorFactoryImpl implements ValidatorFactory {
 
-    private static final ArrayList<PasswordValidator> validators = new ArrayList<>();
+    private final ArrayList<PasswordValidator> validators = new ArrayList<>();
 
     public ValidatorFactoryImpl() {
 
